@@ -8,6 +8,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+
+<h3>Some of my programming skills include</h3>
   
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
@@ -18,6 +20,8 @@
 </div>
 
 #
+
+<h3>you can reach me at</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201/)
 
