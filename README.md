@@ -26,7 +26,7 @@
 <h3>You can reach me at</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201/)
-<a href="mailto:seuemail@example.com">
+<a href="mailto:pserranonascimento@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Enviar e-mail">
 </a>
 
