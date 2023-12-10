@@ -1,5 +1,5 @@
 # Hello, my name is Pedro, and welcome to my GitHub! :sweat_smile:
-<h3> I am a brazilian junior data scientist, whose interests lie in the fields of predictive modeling, econometrics and its applications in the development of financial solutions. </h3>
+<h3> I am a brazilian data scientist, whose interests lie in the fields of predictive modeling, econometrics and its applications in the development of financial solutions. </h3>
 <br>
 
 <div align="">
