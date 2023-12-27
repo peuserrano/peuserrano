@@ -1,4 +1,4 @@
-# Hello, my name is Pedro, and welcome to my GitHub! :sweat_smile:
+# Hello, my name is Pedro, and welcome to my GitHub!
 <h3> I am a brazilian data scientist whose interests lie in the fields of econometrics and its applications in the development of financial solutions </h3>
 <br>
 
