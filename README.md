@@ -1,4 +1,4 @@
-# Hello, i'm Pedro, and be welcome to my GitHub!
+# Hello, i'm Pedro, and welcome to my GitHub!
 <h3> My main interests lie in the fields of econometrics, Machine Learning and Quantitative Finance </h3>
 <br>
 
