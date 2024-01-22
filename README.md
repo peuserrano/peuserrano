@@ -1,5 +1,5 @@
 # Hello, my name is Pedro, and welcome to my GitHub!
-<h3> My main interests lie in the fields of econometrics and its applications in the development of financial solutions </h3>
+<h3> My main interests lie in the fields of econometrics and Quantitative Finance </h3>
 <br>
 
 <div align="">
