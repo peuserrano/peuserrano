@@ -1,5 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
-<h3> I'm passionate about developing innovative, data-driven financial solutions, leveraging my expertise in econometrics, machine learning, and quantitative finance. My focus is on applying analytics to solve complex financial problems and collaborate to implement impactful strategies. </h3>
+<h3> I'm passionate about developing innovative, data-driven financial solutions, leveraging my expertise in econometrics, machine learning, and quantitative finance. My focus is on applying analytics to solve complex financial problems and collaborate to implement impactful strategies. 
+</h3>
 <br>
 
 <div align="">
