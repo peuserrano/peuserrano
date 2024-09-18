@@ -1,5 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
-<h3> I'm passionate about developing innovative, data-driven financial solutions, leveraging my expertise in econometrics, machine learning, and quantitative finance. My focus is on applying analytics to solve complex financial problems and collaborate to implement impactful strategies. 
+<h3> 
+Economics major and M&A intern with a passion for applying advanced data analytics to solve real-world financial challenges. I leverage econometrics, machine learning, and quantitative finance to develop models that drive insights for strategic decision-making, valuation, and risk management. My work focuses on bridging the gap between financial theory and practical implementation, using code to create scalable, data-driven solutions for the modern financial landscape. 
 </h3>
 <br>
 
