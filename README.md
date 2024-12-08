@@ -1,6 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
 <h3> 
-Economics major and M&A intern with expertise in data analytics. I use econometrics, machine learning, and quantitative finance to build models for strategic decisions, valuation, and risk management. My focus is on applying financial theory through code to create scalable, data-driven solutions.
+I use econometrics, machine learning, and quantitative finance to build models for strategic decisions, valuation, and risk management. My focus is on applying financial theory through code to create scalable, data-driven solutions.
 </h3>
 <br>
 
