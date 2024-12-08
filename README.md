@@ -1,6 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
 <h3> 
-I use econometrics, machine learning, and quantitative finance to build models for strategic decisions, valuation, and risk management. My focus is on applying financial theory through code to create scalable, data-driven solutions.
+I use econometrics, machine learning, and quantitative finance to build models which enhance strategic decisions, such as valuation and risk management. My aim is to apply financial and economic theory through code to create scalable, data-driven solutions.
 </h3>
 <br>
 
@@ -13,7 +13,7 @@ I use econometrics, machine learning, and quantitative finance to build models f
 
 <div style="display: inline_block"><br>
 
-<h3>Some of my programming skills include</h3>
+<h3>Some of the programming skills i frequently use include </h3>
   
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
@@ -27,7 +27,7 @@ I use econometrics, machine learning, and quantitative finance to build models f
 
 #
 
-<h3>You can reach me at</h3>
+<h3>Feel free to reach me at</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201/)
 <a href="mailto:pserranonascimento@gmail.com">
