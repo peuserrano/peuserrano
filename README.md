@@ -1,6 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
 <h3> 
-I use econometrics, machine learning, and quantitative finance to build models which enhance strategic decisions, such as valuation and risk management. My aim is to apply financial and economic theory through code to create scalable, data-driven solutions.
+I use research, machine learning, and finance to build models which enhance strategic decisions and develop data-driven solutions.
 </h3>
 <br>
 
