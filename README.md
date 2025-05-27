@@ -1,6 +1,6 @@
 # Hello, i'm Pedro, and welcome to my GitHub!
 <h3> 
-I use research, machine learning, and finance to build models which enhance strategic decisions and develop data-driven solutions.
+I use machine learning and finance to develop models which enhance strategic decisions and boost data-driven solutions.
 </h3>
 <br>
 
