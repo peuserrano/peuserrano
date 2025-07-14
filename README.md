@@ -13,7 +13,7 @@ I'm passionate about using **machine learning** and **data science** to support 
 
 ---
 
-## 🛠️ Stack
+## 🏗️ Stack
 
 Here are some of the tools and languages I frequently work with:
 
