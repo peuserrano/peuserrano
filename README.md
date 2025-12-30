@@ -1,36 +1,60 @@
-# 👋 Hi, I'm Pedro — Welcome to my GitHub!
+# Hi, i'm Pedro Serrano. Welcome to my github!
 
-I'm passionate about using **machine learning** and **data science** to support **strategic decision-making** and develop **data-driven solutions** — especially in finance, economics, and business analytics.
+Quantitatively trained economist focused on **data-driven research**, **financial modeling**, and **analytical systems**.
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/peuserrano">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=peuserrano&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuserrano&theme=dracula&hide_border=false&layout=compact"/>
-  </a>
-</div>
+My work sits at the intersection of **quantitative finance**, **algorithmic trading**, **market microstructure**, and **applied machine learning**, with an emphasis on building **reproducible, research-oriented workflows** in Python.
 
 ---
 
-## 🏗️ Stack
+## 🔍 Areas of Interest
 
-Here are some of the tools and languages I frequently work with:
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-</div>
+- Quantitative research & statistical modeling  
+- Algorithmic trading & execution logic  
+- Econometrics, market microstructure, pricing & liquidity  
+- Risk analysis, volatility & exposure  
+- Applied machine learning for financial data  
 
 ---
 
-## 📫 Let's Connect
+## 🧠 What you'll find here
 
-Feel free to reach out:
+This repository contains projects and experiments related to:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranonascimento@gmail.com)
+- **Data analysis pipelines** for financial and economic data  
+- **Quantitative models** for valuation, risk and time series analysis  
+- **Backtesting frameworks** and research notebooks  
+- **Automation tools** for analytical workflows  
+
+Most projects prioritize:
+- clean data handling  
+- transparent assumptions  
+- reproducibility  
+- analytical rigor over surface-level results  
 
 ---
+
+## 🏗️ Technical Stack
+
+- **Languages:** Python, R, SQL  
+- **Core libraries:** NumPy, pandas, SciPy, statsmodels  
+- **Data & research:** Jupyter, matplotlib  
+- **Tools:** Git, Linux-based workflows  
+
+---
+
+## 📌 Background
+
+- BSc in Economics, with strong focus on econometrics, statistics and applied quantitative methods  
+- Experience in M&A, financial modeling and data-driven analysis  
+- Practical exposure to automating financial analysis and working with real-world financial data  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/pedro-serrano-476815201]  
+- Email: [pserranon3@gmail.com]  
+
+---
+
+> *This GitHub is used primarily as a research and experimentation space.*
