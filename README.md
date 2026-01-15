@@ -6,25 +6,6 @@ My work sits at the intersection of **quantitative finance**, **algorithmic trad
 
 ---
 
-## 🔍 Areas of Interest
-
-- Quantitative research & statistical modeling  
-- Algorithmic trading & execution logic  
-- Econometrics, market microstructure, pricing & liquidity  
-- Risk analysis, volatility & exposure  
-- Applied machine learning for financial data  
-
----
-
-## 🧠 What you'll find here
-
-This repository contains projects and experiments related to:
-
-- **Data analysis pipelines** for financial and economic data  
-- **Quantitative models** for valuation, risk and time series analysis  
-- **Backtesting frameworks** and research notebooks  
-- **Automation tools** for analytical workflows  
-
 Most projects prioritize:
 - clean data handling  
 - transparent assumptions  
