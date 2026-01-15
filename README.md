@@ -2,8 +2,6 @@
 
 Quantitatively trained economist focused on **data-driven research**, **financial modeling**, and **analytical systems**.
 
-My work sits at the intersection of **quantitative finance**, **algorithmic trading**, **market microstructure**, and **applied machine learning**, with an emphasis on building **reproducible, research-oriented workflows** in Python.
-
 ---
 
 Most projects prioritize:
@@ -17,9 +15,7 @@ Most projects prioritize:
 ## 🏗️ Technical Stack
 
 - **Languages:** Python, R, SQL  
-- **Core libraries:** NumPy, pandas, SciPy, statsmodels  
-- **Data & research:** Jupyter, matplotlib  
-- **Tools:** Git, Linux-based workflows  
+- **Core libraries:** NumPy, pandas, SciPy, statsmodels, PyTorch
 
 ---
 
