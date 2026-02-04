@@ -1,29 +1,28 @@
 # Hi, i'm Pedro Serrano. Welcome to my github!
 
-Quantitatively trained economist focused on **data-driven research**, **financial modeling**, and **analytical systems**.
+Quantitative economist working with **data science**, **software engineering**, and **applied research**.
 
 ---
 
-Most projects prioritize:
-- clean data handling  
-- transparent assumptions  
-- reproducibility  
-- analytical rigor over surface-level results  
+Focus:
+
+- empirical research (causal inference, forecasting, ML)
+- data pipelines and analytical systems
+- financial and quantitative modelling
+- reproducible, production-oriented code
 
 ---
 
-## 🏗️ Technical Stack
+Stack
 
-- **Languages:** Python, R, SQL  
-- **Core libraries:** NumPy, pandas, SciPy, statsmodels, PyTorch
+Python · SQL · R  
+pandas · NumPy · SciPy · statsmodels · PyTorc
 
 ---
 
-## 📌 Background
+Background
 
-- BSc in Economics, with strong focus on econometrics, statistics and applied quantitative methods  
-- Experience in M&A, financial modeling and data-driven analysis  
-- Practical exposure to automating financial analysis and working with real-world financial data  
+Econometrics and statistics training with experience in financial analysis and automation of real-world workflows 
 
 ---
 
