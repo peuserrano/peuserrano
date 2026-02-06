@@ -10,7 +10,7 @@ My background is in econometrics and quantitative finance, but my work today is 
 • data pipelines and ETL workflows
 • analytics and reporting systems
 • ML inference services
-• automation tools for finance and research problems
+• automation tools for business and research problems
 
 ## Tech Stack
 Python · SQL · PostgreSQL  
