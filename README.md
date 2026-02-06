@@ -1,36 +1,25 @@
-# Hi, i'm Pedro Serrano. Welcome to my github!
+Hi, I'm Pedro Serrano.
 
-Quantitative economist working with **data science**, **software engineering**, and **applied research**.
+Software Engineer focused on backend and data-intensive systems.
 
----
+I build APIs, data pipelines, and analytical tools that turn messy real-world data into reliable, automated systems.
 
-Focus:
+My background is in econometrics and quantitative finance, but my work today is centered on engineering: designing databases, automating workflows, and deploying data/ML services.
 
-- empirical research (causal inference, forecasting, ML)
-- data pipelines and analytical systems
-- financial and quantitative modelling
-- reproducible, production-oriented code
+## What I build
+• data pipelines and ETL workflows
+• analytics and reporting systems
+• ML inference services
+• automation tools for finance and research problems
 
----
+## Tech Stack
+Python · SQL · PostgreSQL  
+FastAPI · Django · Docker · Git  
+pandas · NumPy · scikit-learn
 
-Stack
+## Background
+Econometrics training with hands-on experience building real-world data systems across finance, research, and consulting projects.
 
-Python · SQL · R  
-pandas · NumPy · SciPy · statsmodels · PyTorc
-
----
-
-Background
-
-Econometrics and statistics training with experience in financial analysis and automation of real-world workflows 
-
----
-
-## 📫 Contact
-
-- LinkedIn: [https://www.linkedin.com/in/pedro-serrano-476815201]  
-- Email: [pserranon3@gmail.com]  
-
----
-
-> *This GitHub is used primarily as a research and experimentation space.*
+## Contact
+LinkedIn: https://www.linkedin.com/in/pedro-serrano-476815201  
+Email: pserranon3@gmail.com
