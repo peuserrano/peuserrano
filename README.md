@@ -2,7 +2,7 @@ Hi, I'm Pedro Serrano.
 
 Software Engineer focused on backend and data-intensive systems.
 
-I build APIs, data pipelines, and analytical tools that turn messy real-world data into reliable, automated systems.
+I build APIs, data pipelines, and analytical tools that turn real-world data into reliable, automated systems.
 
 My background is in econometrics and quantitative finance, but my work today is centered on engineering: designing databases, automating workflows, and deploying data/ML services.
 
