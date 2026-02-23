@@ -1,25 +1,24 @@
-Hi, I'm Pedro Serrano.
+# Pedro Serrano
 
-Software Engineer focused on backend and data-intensive systems.
+Data Scientist with a background in econometrics and quantitative finance.
 
-I build APIs, data pipelines, and analytical tools that turn real-world data into reliable, automated systems.
-
-My background is in econometrics and quantitative finance, but my work today is centered on engineering: designing databases, automating workflows, and deploying data/ML services.
-
-## What I build
-• data pipelines and ETL workflows
-• analytics and reporting systems
-• ML inference services
-• automation tools for business and research problems
+I build end-to-end data and ML systems — from pipelines and EDA to 
+predictive models — applied to real economic and financial problems. 
+Currently expanding into ML engineering and recommender systems.
 
 ## Tech Stack
-Python · SQL · PostgreSQL  
-FastAPI · Django · Docker · Git  
-pandas · NumPy · scikit-learn
+
+Python · SQL · R  
+PostgreSQL · BigQuery  
+Pandas · NumPy · scikit-learn · statsmodels  
+Git · Jupyter · Google Cloud Platform
 
 ## Background
-Econometrics training with hands-on experience building real-world data systems across finance, research, and consulting projects.
+
+Economics degree (UFPE) with hands-on experience building data pipelines, 
+statistical models, and analytical systems in finance and research contexts.
 
 ## Contact
+
 LinkedIn: https://www.linkedin.com/in/pedro-serrano-476815201  
 Email: pserranon3@gmail.com
