@@ -7,8 +7,6 @@ quantitative modeling, building toward ML engineering.
 
 Python · SQL · R  
 PostgreSQL · BigQuery · Google Cloud Platform  
-Pandas · NumPy · scikit-learn · statsmodels  
-Git · Jupyter
 
 ## Contact
 
