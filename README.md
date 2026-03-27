@@ -6,7 +6,7 @@ quantitative modeling, building toward ML engineering.
 ## Tech Stack
 
 Python · SQL · R  
-PostgreSQL · BigQuery · Google Cloud Platform  
+Snowflake · BigQuery · Google Cloud Platform · PostgreSQL  
 
 ## Contact
 
