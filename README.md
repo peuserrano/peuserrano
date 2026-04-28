@@ -1,6 +1,5 @@
 # Pedro Serrano
 Economist and Data Scientist with strong foundations in statistics, econometrics, and quantitative modeling. 
-Background in wealth management and M&A, currently building data-driven applications for financial institutions.
 
 ## Tech Stack
 Python · SQL · R  
