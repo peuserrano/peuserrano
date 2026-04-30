@@ -15,7 +15,7 @@
 
 ## About
 
-My work sits at the intersection of economics and data science, focused on **causal inference** and **quantitative modeling** — building frameworks that distinguish noise from effects, from experimental design to quasi-experimental methods.
+Focused on causal inference and quantitative modeling — building frameworks that distinguish noise from effects.
 
 ---
 
