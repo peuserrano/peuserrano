@@ -1,6 +1,6 @@
 # Pedro Serrano
 
-Economist and Data Scientist focused on statistics, econometrics, causal inference, and quantitative modeling.
+Economist and Data Scientist with expertise on statistics, econometrics,and focused on causal inference and quantitative modeling.
 
 ## Tech Stack
 
