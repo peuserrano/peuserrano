@@ -4,7 +4,7 @@
 
 **Economist · Data Scientist**
 
-*Turning real-world data into relevant insights*
+*Turning messy real-world data into credible, relevant insights*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranon3@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-Economist and Data Scientist with a strong foundation in statistics and econometrics, specializing in **causal inference** and **quantitative modeling**. I focus on building rigorous analytical frameworks that distinguish noise from effects — from experimental design to quasi-experimental methods.
+My work sits at the intersection of economics and data science, focused on **causal inference** and **quantitative modeling** — building frameworks that distinguish noise from effects, from experimental design to quasi-experimental methods.
 
 ---
 
@@ -44,12 +44,12 @@ Economist and Data Scientist with a strong foundation in statistics and economet
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+ <img src="https://github-readme-stats.vercel.app/api?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Always open to collaborate on research, data projects, and causal questions worth answering.</sub>
+ <sub>Always open to collaborate on research, data projects, and causal questions worth answering.</sub>
 </div>
