@@ -51,5 +51,5 @@ My work sits at the intersection of economics and data science, focused on **cau
 ---
 
 <div align="center">
- <sub>Always open to collaborate on research, data projects, and causal questions worth answering.</sub>
+ <sub>Always open to collaborate on research, projects, and questions worth answering.</sub>
 </div>
