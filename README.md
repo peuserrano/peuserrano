@@ -4,7 +4,7 @@
 
 **Economist · Data Scientist**
 
-*Turning messy real-world data into credible, relevant insights*
+*Turning real-world data into relevant insights*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranon3@gmail.com)
