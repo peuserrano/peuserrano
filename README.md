@@ -2,9 +2,9 @@
 
 # Pedro Serrano
 
-**Economist · Data Scientist · Causal Inference**
+**Economist · Data Scientist**
 
-*Turning messy real-world data into credible, actionable insights*
+*Turning messy real-world data into credible, relevant insights*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-serrano-476815201)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranon3@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-Economist and Data Scientist with a strong foundation in statistics and econometrics, specializing in **causal inference** and **quantitative modeling**. I focus on building rigorous analytical frameworks that distinguish correlation from causation — from experimental design to quasi-experimental methods.
+Economist and Data Scientist with a strong foundation in statistics and econometrics, specializing in **causal inference** and **quantitative modeling**. I focus on building rigorous analytical frameworks that distinguish noise from effects — from experimental design to quasi-experimental methods.
 
 ---
 
