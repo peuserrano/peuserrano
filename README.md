@@ -2,7 +2,7 @@
 
 # Pedro Serrano
 
-**Economist · Applied Research Scientist**
+**Economist · Research Scientist**
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranon3@gmail.com)
