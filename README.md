@@ -4,7 +4,6 @@
 
 **Economist · Research Scientist**
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pserranon3@gmail.com)
 
 </div>
@@ -13,7 +12,9 @@
 
 ## About
 
-Focused on causal inference and quantitative modeling — building frameworks that distinguish noise from effects.
+I build frameworks that distinguish noise from effects — working at the intersection of econometrics, machine learning, and applied research. Most of what I do lives somewhere between a regression table and a production pipeline.
+
+Currently interested in: causal ML, quasi-experimental design, and how quantitative methods translate into decisions that actually matter.
 
 ---
 
@@ -32,22 +33,23 @@ Focused on causal inference and quantitative modeling — building frameworks th
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Expertise**
+**Methods**
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Causal Inference](https://img.shields.io/badge/Causal_Inference-6DB33F?style=for-the-badge&logoColor=white)
+![Econometrics](https://img.shields.io/badge/Econometrics-8A2BE2?style=for-the-badge&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuserrano&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </div>
 
 ---
 
 <div align="center">
- <sub>Always open to collaborate on research, projects, and questions worth answering.</sub>
+  <sub>Open to research collaborations, interesting problems and good questions.</sub>
 </div>
