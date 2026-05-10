@@ -10,14 +10,6 @@
 
 ---
 
-## About
-
-I build frameworks that distinguish noise from effects — working at the intersection of econometrics, machine learning, and applied research. Most of what I do lives somewhere between a regression table and a production pipeline.
-
-Currently interested in: causal ML, quasi-experimental design, and how quantitative methods translate into decisions that actually matter.
-
----
-
 ## Tech Stack
 
 **Languages**
